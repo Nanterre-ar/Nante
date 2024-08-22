@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Nanterre-ar
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Renante Arbuis
+- 👀 I’m interested in Learning GenAI
 - 🌱 I’m currently learning Get hub Copilot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on this topic
+- 📫 How to reach me email or chat
+- 😄 Pronouns: Mr. 
+- ⚡ Fun fact: Shssshhh
 
 <!---
 Nanterre-ar/Nanterre-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
