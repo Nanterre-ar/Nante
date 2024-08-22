@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renante Arbuis
+- 👋 Hi, I’m Nante
 - 👀 I’m interested in Learning GenAI
 - 🌱 I’m currently learning Get hub Copilot
 - 💞️ I’m looking to collaborate on this topic
